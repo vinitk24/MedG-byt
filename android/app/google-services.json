@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "486314104535",
-    "firebase_url": "https://medg-1b218.firebaseio.com",
+    "project_number": "",
+    "firebase_url": "",
     "project_id": "medg-1b218",
-    "storage_bucket": "medg-1b218.appspot.com"
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:486314104535:android:e0d0283b38ba43bdb2c292",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.mateg.medg"
         }
       },
       "oauth_client": [
         {
-          "client_id": "486314104535-lldcrcdm07uijknhpksogog5dd6tmo3i.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
@@ -28,7 +28,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "486314104535-lldcrcdm07uijknhpksogog5dd6tmo3i.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
